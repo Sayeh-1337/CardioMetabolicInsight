@@ -2,6 +2,11 @@
 
 This project conducts an exploratory data analysis on risk factors for heart attacks and diabetes.
 
+## Tutorial Video
+Watch this YouTube video for a tutorial and overview explanation of the data analysis:
+
+[Cardiometabolic Risk Analysis Tutorial](https://youtu.be/ro-0rbS6to4)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
